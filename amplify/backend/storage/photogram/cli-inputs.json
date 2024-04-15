@@ -1,0 +1,16 @@
+{
+  "resourceName": "photogram",
+  "policyUUID": "9b499c87",
+  "bucketName": "photogram5a3045336315441eb37e670f3ebc15f7",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

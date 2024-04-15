@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-photogram-dev-e8f31-authRole",
+      "UnauthRoleArn": "arn:aws:iam::932114242667:role/amplify-photogram-dev-e8f31-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::932114242667:role/amplify-photogram-dev-e8f31-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-photogram-dev-e8f31-deployment",
+      "UnauthRoleName": "amplify-photogram-dev-e8f31-unauthRole",
+      "StackName": "amplify-photogram-dev-e8f31",
+      "StackId": "arn:aws:cloudformation:us-east-1:932114242667:stack/amplify-photogram-dev-e8f31/53bfd460-f973-11ee-9185-0afff8a3a649",
+      "AmplifyAppId": "d2svtmsd73lg46"
+    },
+    "categories": {
+      "api": {
+        "photogram": {}
+      },
+      "auth": {
+        "photograme6a32083": {}
+      },
+      "storage": {
+        "photogram": {}
+      }
+    }
+  }
+}
